@@ -25,7 +25,7 @@ Please find Wikimedia Foundation REST API terms of use [here].(https://www.media
 - Final data file in CSV format: *en-wikipedia_traffic_200712-202008.csv*
 - Jupyter notebook containing all code and information necessary to understand each programming step: *data-512-a1.ipynb*
 - LICENSE file with *MIT LICENSE* for my code
-- .png image for my visualization
+- Image for my visualization: *PageViews_on_English_Wikipedia.png*
 
 ## Final data file
 The final data file, "en-wikipedia_traffic_200712-202008.csv", has 153 rows corresponding to data for 153 months over 13 years, from year 2007 till 2020. The datafile has 8 columns, all of :
